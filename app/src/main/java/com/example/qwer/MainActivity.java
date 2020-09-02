@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-        // 하이염
+        // 하이염 김광순 개바보
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
