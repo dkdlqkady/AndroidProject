@@ -9,9 +9,10 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        // 하이염
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
